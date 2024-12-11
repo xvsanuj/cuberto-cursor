@@ -54,7 +54,3 @@ body {
     text-align: center;
     z-index: 400;
 }
-
-.cursor.scale-up:before {
-    transform: scale(3);
-}
